@@ -1,0 +1,5 @@
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\GL-Series.csproj.AssemblyReference.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\GL-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\GL-Series.AssemblyInfoInputs.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\GL-Series.AssemblyInfo.cs
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\GL-Series.csproj.CoreCompileInputs.cache

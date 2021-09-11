@@ -1,0 +1,24 @@
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Desafio cadastro de séries console\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Onecino\Documents\Gustavo de Almeida\Bootcamp_Avanade\Meu cadastro de Séries\gl-series\obj\Debug\net5.0\DIO.Series.pdb
